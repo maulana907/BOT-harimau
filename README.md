@@ -2,7 +2,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> git clone https://github.com/maulana907/botwasapv5
 ```
 
 ## Install the dependencies:
@@ -10,7 +10,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv4
+> cd botwasapv5
 > bash install.sh
 ```
 
@@ -125,8 +125,8 @@ you've just cloned!!
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/6289523731135)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Saweria`](https://saweria.co/Maulanabhaktiar)
+* [`Dana : +628888778626`]
+* [`Pulsa : +6289523731135`]
